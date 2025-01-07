@@ -1,0 +1,13 @@
+*.db
+*.pyc
+*~
+*.egg-info
+.env
+.env.*
+.idea
+.webassets-cache
+config.yml
+venv
+node_modules
+/cdn
+___*
